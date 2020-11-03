@@ -8,6 +8,7 @@ java Team Project
   - 기간 : 2020.05- 2020.05(1주)
 
 <br>
+- [프로젝트 설계 및 명세서](https://github.com/1117j/ProjectMeoko/tree/main/doc)
 
 
   
