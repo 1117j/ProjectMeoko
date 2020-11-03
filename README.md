@@ -1,2 +1,20 @@
 # ProjectMeoko
-자바 프로젝트_학원 주변 맛집 리뷰 서비스 
+java Team Project
+<hr />
+
+> aia 학원 주변 맛집 후기 공유 프로그램
+
+<br>
+
+### 기술 / 구조 
+
+<hr />
+- `java`
+
+<hr />
+
+
+
+
+
+  
