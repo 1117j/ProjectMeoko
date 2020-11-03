@@ -6,15 +6,5 @@ java Team Project
 
 <br>
 
-### 기술 / 구조 
-
-<hr />
-- `java`
-
-<hr />
-
-
-
-
 
   
